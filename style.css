@@ -1,6 +1,5 @@
 body {
   background-color: #e5e5e5;
-  
   margin: 0;
 }
 
@@ -34,18 +33,14 @@ body {
   flex-direction: column;
   justify-content: center;
   height: 400px;
-}
-
-#section-presentation {
   background-image: url(../mobile-first-portfolio/assets/header-shapes\ mobile.png);
   background-repeat: no-repeat;
-  display: flex;
 }
 
 .short-presentation {
   font-weight: bold;
   font-size: 40px;
-  color: #172B4D;
+  color: #172b4d;
   line-height: 52px;
   text-align: start;
   margin: 0 24px;
@@ -104,4 +99,3 @@ footer h3 {
   width: 25%;
   margin-right: 60%;
 }
-
