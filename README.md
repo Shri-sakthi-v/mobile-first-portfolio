@@ -1,91 +1,163 @@
-# Portfolio: setup and mobile first
+# 📗 Table of Contents
 
-For this project, the requirement is to build a protfolio website with the given requirement:
-- Making sure that there are no linter errors
-- Making sure to used correct GitHub Flow.
-- The 2 sections are needed to build for this project are:
-    - The toolbar (or header).
-    - The headline section (right after the header).
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-## Built With 🔨
+<!-- PROJECT DESCRIPTION -->
 
-- HTML
-- CSS(flexbox)
-- Git & Github
-- Linter
+# 📖 Portfolio <a name="about-project"></a>
 
-### Install
+> Describe your project in 1 or 2 sentences.
 
-To get a local copy up and running follow these simple example steps.
-- Open terminal
-- Clone this project by the command: 
+**Portfolio** project is a beginner setup and mobile  first project using the HTML and CSS to design and build a mobile size website portfolio page.
 
-```
-$ git clone git@github.com:Shri-sakthi-v/mobile-first-portfolio.git
-```
-- Finally, run  the index.html file in your local browser.
-Add all the linter configure files to validate.
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Added a mobile header**
+- **Added about section**
+- **Added styles**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- Not available now
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- IDE to edit and run the code (I used visual studio ).
-- Git to versionning your work.
-- Linter config
+In order to run this project you need:
 
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+```sh
+  cd my-folder
+  git clone git@github.com:Shri-sakthi-v/mobile-first-portfolio.git
+```
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd mobile-first-portfolio
+  npm install
+```
 
 ### Usage
 
-- to create a portfolio mobile first page.
+To use this project on the `index.html` file with your prefered browser
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+👤 **Shri sakthi**
+
+- GitHub: [@shri-sakthi-v](https://github.com/shri-sakhti-v)
+- Twitter: [@shrisakthi](https://twitter.com/shrisakthi)
+- LinkedIn: [shrisakthi](https://linkedin.com/in/shrisakthi)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
 
 
-## Authors
+- [ ] **Add contact section**
+- [ ] **Add footer section**
+- [ ] **Add animations to the project**
 
-👤 **shri sakthi**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- GitHub: [@shrisakthi](https://github.com/shri-sakthi-v)
-- LinkedIn: [@shrisakthi](https://www.linkedin.com/in/shri-sakthi)
+<!-- CONTRIBUTING -->
 
-
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 
-## Show your support
+If you like this project please give a star to this project
 
-if you are like or interested in this project to work, contact me any time
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-## Acknowledgments
+I would like to thank Microverse for allowing me to use their readme template
 
--Microverse team
--my coding partner in helping me.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="shrisakthi"></a>
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-MIT License
-
-Copyright (c) 2023 Shri-sakthi-v
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
