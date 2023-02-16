@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+.logo {
+  font-family: 'Poppins', sans-serif;
+}
+
 .starting-page {
   background-color: #fff;
   border-radius: 0 0 0 5%;
@@ -89,7 +93,7 @@ footer h3 {
 #navigator_bar .logo {
   text-decoration: none;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   color: #6070fd;
   display: flex;
   align-items: center;
