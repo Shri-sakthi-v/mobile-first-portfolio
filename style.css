@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-p{
+p {
   font-family: 'poppins', sans-serif;
 }
 
@@ -26,7 +26,6 @@ p{
   display: flex;
   align-items: center;
   margin-top: 20px;
-  
 }
 
 #navigator_bar nav:hover {
@@ -84,7 +83,7 @@ h3 {
   font-size: 34px;
   color: #172b4d;
   line-height: 44px;
-  font-family: 'poppins',sans-serif;
+  font-family: 'poppins', sans-serif;
 }
 
 footer h3 {
@@ -140,10 +139,11 @@ footer h3 {
 
 .general_inf {
   display: flex;
-  font-family: 'poppins',sans-serif;
+  font-family: 'poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
-  /*font-size: 13px;*/
+
+  /* font-size: 13px; */
   margin-top: 5px;
   margin-left: 0;
 }
@@ -187,8 +187,9 @@ footer h3 {
   border: 1px solid #396df2;
   border-radius: 5px;
   width: 45%;
-  /*margin-top: 16px;
-  padding: 10px 0;*/
+
+  /* margin-top: 16px;
+  padding: 10px 0; */
   text-align: center;
   margin-left: 16px;
   margin-bottom: 32px;
@@ -196,7 +197,7 @@ footer h3 {
 
 .external_link a {
   text-decoration: none;
-  font-family: poppins , sans-serif;
+  font-family: poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -216,7 +217,7 @@ footer h3 {
   border-radius: 8px;
 }
 
-.external_link a:hover { color: #fff;}
+.external_link a:hover { color: #fff; }
 
 .last-sect {
   background-color: #fff;
@@ -261,7 +262,7 @@ footer h3 {
 }
 
 #resume-link h2 {
-  font-family: Poppins, sans-sherif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -319,7 +320,7 @@ footer h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  color: #000
+  color: #000;
 }
 
 #languages_skills {
@@ -332,7 +333,7 @@ footer h3 {
   justify-content: space-between;
 }
 
-.spec_name div { margin-right: 24px; } 
+.spec_name div { margin-right: 24px; }
 
 .spec_name div img { vertical-align: middle; }
 
@@ -344,16 +345,6 @@ footer h3 {
   margin-right: 24px;
   margin-bottom: 0;
   margin-top: 0;
-}
-
-.frameworks-skills .pro p {
-  font-family: Poppins, sans-serif !important;
-  font-style: normal !important;
-  font-weight: 500 !important;
-  font-size: 15px !important;
-  line-height: 20px !important;
-  color: #253858 !important;
-  margin-left: 15px !important;
 }
 
 #frameworks div { margin-top: 7px; }
@@ -384,6 +375,3 @@ footer h3 {
   background: #dfe1e6;
   height: 1px;
 }
-
-
-
