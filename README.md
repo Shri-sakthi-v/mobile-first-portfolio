@@ -44,9 +44,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Added a mobile header**
-- **Added about section**
-- **Added styles**
+- **Added the work and project section**
+- **Added about myself section**
+- **Added styles using the flexbox and grid layout together**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,14 +70,13 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+ - Installation of Git
+ - Installation of NPM
+ - A working browser
+ - Internet connection
+ - A code editor like Visual Studio Code
+ - Installation of Live Server plugging in Visual Studio Code
+ - Any other tool you can think about
 
 ### Setup
 
@@ -121,8 +120,8 @@ To use this project on the `index.html` file with your prefered browser
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add contact section**
-- [ ] **Add footer section**
+- [ ] **Add form for further development**
+- [ ] **Add js file for further dynamic response**
 - [ ] **Add animations to the project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -151,7 +150,7 @@ If you like this project please give a star to this project
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse for allowing me to use their readme template
+I would like to thank Microverse, my coding partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
