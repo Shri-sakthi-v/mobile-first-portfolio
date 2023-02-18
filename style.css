@@ -110,10 +110,15 @@ footer h3 {
 }
 
 #working {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
   margin: 50px 0 57px 0;
 }
 
 .project {
+  display: flex;
+  flex-direction: column;
   background-color: #fff;
   border-radius: 2.5%;
   margin-bottom: 10vh;
@@ -121,7 +126,8 @@ footer h3 {
 
 .project_image {
   margin-top: 32px;
-  align-self: start;
+
+  /* align-self: start; */
   margin-left: 24px;
   max-width: calc(100% - 48px);
   min-height: 110px;
@@ -156,7 +162,7 @@ footer h3 {
   line-height: 24px;
   color: #344563;
   margin-top: 5px;
-  text-align: justify;
+  text-align: left;
   margin-right: 30px;
 }
 
@@ -187,9 +193,8 @@ footer h3 {
   border: 1px solid #396df2;
   border-radius: 5px;
   width: 45%;
-
-  /* margin-top: 16px;
-  padding: 10px 0; */
+  margin-top: 16px;
+  padding: 10px 0;
   text-align: center;
   margin-left: 16px;
   margin-bottom: 32px;
@@ -200,7 +205,7 @@ footer h3 {
   font-family: poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 20px;
   color: #396df2;
   text-align: center;
@@ -218,6 +223,10 @@ footer h3 {
 }
 
 .external_link a:hover { color: #fff; }
+
+.external_link a:active {
+  color: #fff;
+}
 
 .last-sect {
   background-color: #fff;
@@ -239,6 +248,8 @@ footer h3 {
   color: #172b4d;
   display: flex;
   align-items: flex-end;
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 
 .myself-abt {
@@ -303,6 +314,7 @@ footer h3 {
 
 #get-resume:hover {
   background-color: #6070ff;
+  color: #fff;
 }
 
 #my_skills {
@@ -354,17 +366,24 @@ footer h3 {
   flex-direction: column;
 }
 
+#sivak {
+  display: flex;
+  flex-direction: column;
+}
+
+#sivak div { margin-top: 7px; }
+
 #l1 {
   height: 5px;
   margin: 10px 0;
 }
 
-#sk {
-  display: flex;
-  flex-direction: column;
+#l1 hr {
+  background: #dfe1e6;
+  height: 1px;
+  vertical-align: middle;
+  margin-top: 3px;
 }
-
-#sk div { margin-top: 7px; }
 
 #l2 {
   height: 5px;
@@ -374,4 +393,43 @@ footer h3 {
 #l2 hr {
   background: #dfe1e6;
   height: 1px;
+}
+
+.year {
+  color: #344563;
+  margin-right: 12px;
+  line-height: 16px;
+  position: relative;
+  top: 2px;
+}
+
+#programmes {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  justify-content: space-between;
+  margin-right: 24px;
+}
+
+.tech-o {
+  list-style: none;
+  display: flex;
+  background: #f7f7f9;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+
+#programmes .tech-o p {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #253858;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.show {
+  display: none;
 }
