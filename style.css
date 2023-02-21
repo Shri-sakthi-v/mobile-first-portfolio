@@ -126,7 +126,6 @@ footer h3 {
 
 .project_image {
   margin-top: 32px;
-
   align-self: start;
   margin-left: 24px;
   max-width: calc(100% - 48px);
@@ -436,7 +435,7 @@ footer h3 {
 
 .form-section {
   background-color: #fff;
-  background-image: url(assets/Group\ 56\ \(1\).png);
+  background-image: url(assets/Group\ 56\ \(1\) .png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
