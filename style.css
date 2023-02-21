@@ -477,3 +477,25 @@ footer h3 {
   gap: 15px;
   width: 90%;
 }
+
+
+.contact input {
+  font-family: Poppins, sans-serif;
+  font-size: 17px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  padding: 15px 10px;
+  border-radius: 12px;
+  border: none;
+}
+
+.contact textarea {
+  font-family: Poppins, sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  color: #b3bac5;
+  padding: 15px;
+  border-radius: 12px;
+  border: none;
+}
