@@ -443,3 +443,18 @@ footer h3 {
   justify-content: center;
   margin-top: 100px;
 }
+.wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.contact-title {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 52px;
+  color: #fff;
+}
