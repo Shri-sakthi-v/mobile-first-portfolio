@@ -112,6 +112,11 @@ To use this project on the `index.html` file with your prefered browser
 - GitHub: [@shri-sakthi-v](https://github.com/shri-sakhti-v)
 - Twitter: [@shrisakthi](https://twitter.com/shrisakthi)
 - LinkedIn: [shrisakthi](https://linkedin.com/in/shrisakthi)
+-
+- 👤 **Osman Wako**
+
+- GitHub: [@osman_github](https://github.com/osmanwako)
+- Twitter: [@Osman_Linkedin](https://www.linkedin.com/in/osman-wako-08663825a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
