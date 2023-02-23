@@ -126,8 +126,7 @@ footer h3 {
 
 .project_image {
   margin-top: 32px;
-
-  /* align-self: start; */
+  align-self: start; 
   margin-left: 24px;
   max-width: calc(100% - 48px);
   min-height: 110px;
@@ -539,4 +538,8 @@ span {
   color: red;
   font-size: 13px;
   font-weight: 600;
+}
+
+@media screen {
+  
 }
