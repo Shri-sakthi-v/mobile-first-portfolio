@@ -190,7 +190,8 @@ footer h3 {
   color: #6070ff;
   list-style: none;
   padding: 5px 15px;
-  /*flex: 1;*/
+
+  /* flex: 1; */
   text-align: center;
 }
 
@@ -555,7 +556,10 @@ span {
     width: 100%;
     overflow-x: auto;
   }
+
   .contact textarea {
+    font-size: 16px;
+    border-radius: 0;
     width: 319px;
     height: 100px;
   }
@@ -776,9 +780,4 @@ span {
   .contact input {
     border-radius: 0;
   }
-
-  .contact textarea {
-    font-size: 16px;
-    border-radius: 0;
-    }
 }
