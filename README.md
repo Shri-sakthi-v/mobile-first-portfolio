@@ -55,7 +55,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- Not available now
+- [live project](https://shri-sakthi-v.github.io/mobile-first-portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
