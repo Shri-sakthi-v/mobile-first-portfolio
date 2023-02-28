@@ -218,13 +218,13 @@ footer h3 {
 }
 
 .external_link:hover {
-  background-color: #6070FF;
+  background-color: #6070ff;
   border-radius: 8px;
   box-shadow: 0 8px 16px rgba(64, 84, 253, 0.24);
 }
 
 .external_link:visited {
-  background: #2230D2;
+  background: #2230d2;
   border-radius: 8px;
 }
 
@@ -287,6 +287,17 @@ footer h3 {
   color: #7f8cff;
 }
 
+#my_skills h2 {
+  align-self: flex-start;
+  margin: 15px 10% 0 15px;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+}
+
 #resume-link h2:hover {
   text-decoration: inderline;
   text-decoration-color: #18a0fa;
@@ -331,17 +342,6 @@ footer h3 {
 }
 
 #my_skills p {
-  align-self: flex-start;
-  margin: 15px 10% 0 15px;
-  font-family: Poppins, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  color: #000;
-}
-
-#my_skills h2 {
   align-self: flex-start;
   margin: 15px 10% 0 15px;
   font-family: Poppins, sans-serif;
