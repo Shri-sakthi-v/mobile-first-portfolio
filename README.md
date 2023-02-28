@@ -112,11 +112,21 @@ To use this project on the `index.html` file with your prefered browser
 - GitHub: [@shri-sakthi-v](https://github.com/shri-sakhti-v)
 - Twitter: [@shrisakthi](https://twitter.com/shrisakthi)
 - LinkedIn: [shrisakthi](https://linkedin.com/in/shrisakthi)
--
-- 👤 **Osman Wako**
 
-- GitHub: [@osman_github](https://github.com/osmanwako)
-- Twitter: [@Osman_Linkedin](https://www.linkedin.com/in/osman-wako-08663825a/)
+
+👤 **Joseck Osugo**
+
+- GitHub: [0sugo](https://github.com/0sugo)
+- Twitter: [@0sugo5](https://twitter.com/osugo5)
+- LinkedIn: [Joseck Osugo](https://www.linkedin.com/in/joseck-osugo-873b0618a/)
+
+
+👤 **Abednego Kibitok**
+
+- GitHub: [AbednegoKibitok](https://github.com/AbednegoKibitok)
+- Twitter: [@abedysongol](https://twitter.com/abedysongol)
+- LinkedIn: [abednego-kibitok](https://www.linkedin.com/in/abednego-kibitok-58717517a/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
