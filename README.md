@@ -123,9 +123,9 @@ To use this project on the `index.html` file with your prefered browser
 
 👤 **Abednego Kibitok**
 
-- GitHub: [0sugo](https://github.com/AbednegoKibitok)
-- Twitter: [@0sugo5](https://twitter.com/abedysongol)
-- LinkedIn: [Joseck Osugo](https://www.linkedin.com/in/abednego-kibitok-58717517a/)
+- GitHub: [AbednegoKibitok](https://github.com/AbednegoKibitok)
+- Twitter: [@abedysongol](https://twitter.com/abedysongol)
+- LinkedIn: [abednego-kibitok](https://www.linkedin.com/in/abednego-kibitok-58717517a/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
