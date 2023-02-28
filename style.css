@@ -218,13 +218,13 @@ footer h3 {
 }
 
 .external_link:hover {
-  background-color: #616efa;
+  background-color: #6070FF;
   border-radius: 8px;
   box-shadow: 0 8px 16px rgba(64, 84, 253, 0.24);
 }
 
 .external_link:visited {
-  background: #2f57d3;
+  background: #2230D2;
   border-radius: 8px;
 }
 
@@ -314,7 +314,7 @@ footer h3 {
   border: 1px solid #396df2;
   border-radius: 5px;
   text-align: center;
-  padding: 10px 2px;
+  padding: 10px 5px;
   align-self: baseline;
 }
 
