@@ -121,6 +121,13 @@ To use this project on the `index.html` file with your prefered browser
 - LinkedIn: [Joseck Osugo](https://www.linkedin.com/in/joseck-osugo-873b0618a/)
 
 
+👤 **Abednego Kibitok**
+
+- GitHub: [0sugo](https://github.com/AbednegoKibitok)
+- Twitter: [@0sugo5](https://twitter.com/abedysongol)
+- LinkedIn: [Joseck Osugo](https://www.linkedin.com/in/abednego-kibitok-58717517a/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
