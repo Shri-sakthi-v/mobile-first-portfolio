@@ -218,13 +218,13 @@ footer h3 {
 }
 
 .external_link:hover {
-  background-color: #6070ff;
+  background-color: #616efa;
   border-radius: 8px;
   box-shadow: 0 8px 16px rgba(64, 84, 253, 0.24);
 }
 
 .external_link:visited {
-  background: #2230d2;
+  background: #2f57d3;
   border-radius: 8px;
 }
 
@@ -531,12 +531,12 @@ footer h3 {
 }
 
 .contact button:hover {
-  background-color: #6070ff;
+  background-color: #616efa;
   color: #fff;
 }
 
 .contact button:active {
-  background-color: #2230d2;
+  background-color: #2f57d3;
   color: #fff;
 }
 
