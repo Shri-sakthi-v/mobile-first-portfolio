@@ -22,7 +22,7 @@ p {
 
 .navigator_menu {
   width: 45px;
-  height: 30px;
+  height: 50px;
   display: flex;
   align-items: center;
   margin-top: 20px;
@@ -116,7 +116,9 @@ footer h3 {
   margin-left: 24px;
   margin-top: 10px;
   width: 25%;
-  margin-right: 60%;
+  margin-right: 50%;
+  transition-property: all;
+  transition-duration: 2000ms;
 }
 
 #working {
@@ -140,6 +142,8 @@ footer h3 {
   margin-left: 24px;
   max-width: calc(100% - 48px);
   min-height: 110px;
+  transition-property: all;
+  transition-duration: 2000ms;
 }
 
 .general {
@@ -562,6 +566,16 @@ span {
   display: none;
 }
 
+/* transition and animation */
+#navigator_bar .logo:hover {
+  transform: rotate(360deg);
+  transition-timing-function: ease;
+}
+
+.project_image:hover {
+  transform: scale(0.7);
+}
+
 @media screen and (min-width: 1024px) {
   body {
     width: 100%;
@@ -597,11 +611,11 @@ span {
   }
 
   header #navigator_bar .logo {
-    margin-right: 43%;
     font-family: poppins, sans-serif;
     font-weight: bold;
     font-size: 18px;
     line-height: 20px;
+    margin-right: 60%;
   }
 
   #navigator_bar nav {
@@ -794,5 +808,13 @@ span {
 
   #get-resume {
     padding: 8px 6px;
+  }
+
+  #form_id input:hover {
+    transform: translate(30px);
+  }
+
+  #form_id textarea:hover {
+    transform: translate(30px);
   }
 }
